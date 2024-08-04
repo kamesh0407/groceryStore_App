@@ -62,9 +62,9 @@ connection.commit()</code>
 
 <h2>Entity-Relationship Diagram (ERD)</h2>
 <p align="center">
-    <img src="![image](https://github.com/user-attachments/assets/feeb0462-af3a-4beb-9bdc-18ba1f4ba442)" alt="ER Diagram">![Screenshot 2024-08-03 161802](https://github.com/user-attachments/assets/c6da1e17-0543-43f3-8fc7-359de8cdeb0e)
-
+    <img src="ui/images/ERR.png" alt="ER Diagram" width="300">
 </p>
+
 
 <h2>Demonstration📹</h2>
 
