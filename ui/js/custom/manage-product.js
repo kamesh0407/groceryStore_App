@@ -55,7 +55,6 @@ var productModal = $("#productModal");
             callApi("POST", productDeleteApiUrl, data);
         }
     });
-    
 
     productModal.on('hide.bs.modal', function(){
         $("#id").val('0');
